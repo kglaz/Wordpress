@@ -1,0 +1,4 @@
+/*Adds spacing between wp gallery images*/
+.wp-block-image {
+  padding:10px;
+}
